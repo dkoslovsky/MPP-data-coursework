@@ -1,0 +1,15 @@
+# Advanced Statistics for Data Analysis I
+
+This folder contains applied exercises from *Advanced Statistics for Data Analysis I*, focusing on simulation, hypothesis testing, and matching-based causal inference.
+
+### Included Projects
+- **HW5_Matching.pdf** — Implements matching methods to estimate treatment effects, comparing covariate balance and outcome differences.  
+- **HW6_Simulation.pdf** — Conducts Monte Carlo simulations to assess sampling distributions, hypothesis tests, and the normal approximation for different sample sizes.
+
+### Key Skills
+- Simulation and bootstrapping  
+- Matching and treatment effect estimation  
+- Hypothesis testing and confidence intervals  
+- Data visualization with `ggplot2`  
+
+All work completed in R using the `tidyverse`, `estimatr`, and `fixest` packages.
