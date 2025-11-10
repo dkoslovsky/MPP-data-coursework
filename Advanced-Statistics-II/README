@@ -1,0 +1,15 @@
+# Advanced Statistics for Data Analysis II
+
+This folder contains applied econometric exercises from *Advanced Statistics for Data Analysis II*, emphasizing binary response models and instrumental variable techniques.
+
+### Included Projects
+- **HW6_Binary_DVs.pdf** — Estimates linear probability, probit, and logit models for labor force participation, interpreting marginal effects.  
+- **HW7_Instrumental_Variables.pdf** — Uses 2SLS regression to estimate the causal impact of class size on test scores using Maimonides’ rule as an instrument.
+
+### Key Skills
+- Binary choice models (LPM, probit, logit)  
+- Instrumental variable estimation and first-stage diagnostics  
+- Model interpretation and marginal effects  
+- Causal identification in cross-sectional data  
+
+All analysis conducted in R using `estimatr`, `AER`, and `tidyverse`.
