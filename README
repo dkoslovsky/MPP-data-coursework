@@ -1,0 +1,15 @@
+# Advanced Program Evaluation
+
+This folder contains policy evaluation assignments applying quasi-experimental methods to assess program impacts.
+
+### Included Projects
+- **PS3_DID_Event_Study.pdf** — Implements Difference-in-Differences and event study models to estimate treatment effects over time, including visualization of pre-trends and dynamic impacts.  
+- **PS4_Multiple_Hypothesis_Testing.pdf** — Applies Bonferroni and Benjamini-Hochberg corrections to evaluate multiple hypothesis tests in risk assessment data.
+
+### Key Skills
+- Difference-in-Differences (DiD)  
+- Event study visualization and interpretation  
+- Multiple hypothesis testing corrections  
+- Data cleaning and merging administrative datasets  
+
+Analysis performed in R using `fixest`, `did`, and `modelsummary`.
