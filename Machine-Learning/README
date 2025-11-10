@@ -1,0 +1,14 @@
+# Machine Learning
+
+This folder contains applied work from *Machine Learning for Public Policy*, emphasizing supervised learning and model evaluation.
+
+### Included Project
+- **PSET2_Discriminant_Analysis.ipynb** — Applies Linear and Quadratic Discriminant Analysis to classification problems; evaluates model performance using cross-validation and confusion matrices.
+
+### Key Skills
+- Supervised learning algorithms (LDA, QDA)  
+- Model training and evaluation  
+- Visualization and interpretation of classifier performance  
+- Implemented in Python with `scikit-learn` and `matplotlib`
+
+This notebook demonstrates practical machine learning applications for policy-relevant datasets.
